@@ -34,3 +34,5 @@ mod_access,  mod_accesslog,  mod_ajp13,  mod_alias,  mod_auth,  mod_authn_file, 
 ```
 auth-crypt, compress-deflate, compress-gzip, large-files, network-ipv6, network-openssl, regex-conditionals
 ```
+
+Provided by [itefix.net](https://itefix.net)
