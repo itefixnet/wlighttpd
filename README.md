@@ -1,2 +1,4 @@
-# wlighttpd
-wlighttpd - Lighttpd for Windows
+**Wlighttpd** is a basic web server solution for Windows environments. It is a packaging of lighttpd and Cygwin. You can use Wlighttpd as a secure solution with a small footprint for serving https requests.
+
+[lighttpd](https://www.lighttpd.net/ "Lighttpd - Fly light") is a secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. lighttpd uses memory and CPU efficiently and has lower resource use than other popular web servers. Its advanced feature-set (FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and much more) makes lighttpd the perfect web server for all systems, small and large. [Cygwin](http://www.cygwin.com/) is a Linux-like environment for Windows. It consists of a DLL, which emulates substantial Linux API functionality, and a collection of tools.
+
